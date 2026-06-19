@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>James Klein</title>
+		<link>http://localhost:1313/</link>
+		<description>Recent content on James Klein</description>
+		<generator>Hugo</generator>
+		<language>en-us</language>
+		
+		
+		
+		
+			<lastBuildDate>Thu, 18 Jun 2026 21:23:36 -0700</lastBuildDate>
+		
+			<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+			<item>
+				<title>Hello World</title>
+				<link>http://localhost:1313/posts/hello-world/</link>
+				<pubDate>Thu, 18 Jun 2026 21:23:36 -0700</pubDate>
+				<guid>http://localhost:1313/posts/hello-world/</guid>
+				<description>&lt;p&gt;Once upon a time there was a teacher. Not just any kind of teacher, but a Special Education teacher. One who had once been a boy who liked to take the blue stickers that said &amp;lsquo;SPECIAL&amp;rsquo; off his Carls Jr. Famous Star hamburgers and apply them to his shirt.&lt;/p&gt;&#xA;&lt;p&gt;This teacher enjoyed teaching, enjoyed working with students, and even enjoyed thinking about data and how data can inform IEP goal writing.&lt;/p&gt;</description>
+			</item>
+	</channel>
+</rss>

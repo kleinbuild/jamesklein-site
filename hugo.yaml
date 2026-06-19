@@ -1,0 +1,49 @@
+baseURL: "https://jamesklein.dev/"  # update with your actual domain
+languageCode: "en-us"
+title: "James Klein"
+theme: ["BeautifulHugo"]
+
+params:
+  description: "Educator learning to build edtech — documenting every step"
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowToc: true
+  defaultTheme: auto
+
+  homeInfoParams:
+    Title: "Hey, I'm James 👋"
+    Content: >
+      Educator breaking into edtech by teaching myself to build things.
+      This site documents what I'm learning, what I'm building, and what I'm figuring out along the way.
+
+  socialIcons:
+    - name: github
+      url: "https://github.com/yourusername"
+    - name: linkedin
+      url: "https://linkedin.com/in/yourprofile"
+    - name: email
+      url: "mailto:kleinbuild@gmail.com"
+
+menu:
+  main:
+    - name: Posts
+      url: /posts/
+      weight: 1
+    - name: Projects
+      url: /projects/
+      weight: 2
+    - name: About
+      url: /about/
+      weight: 3
+    - name: Search
+      url: /search/
+      weight: 4
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON  # needed for search
